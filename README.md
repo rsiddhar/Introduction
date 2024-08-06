@@ -6,3 +6,5 @@ This repository is built step by step in the tutorial.
 refer to the w3Schools.com
 
 I made some changes.
+
+we have done some more changes.
